@@ -12,9 +12,9 @@ pygame.init()
 
 white = (255,255,255)
 
-black = (100,0,0)
+black = (75,75,75)
 
-red = (255,0,0)
+red = (5,5,100)
 
 window_width = 800
 
